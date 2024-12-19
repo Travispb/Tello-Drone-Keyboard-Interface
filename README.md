@@ -5,4 +5,5 @@ $ pip install tellopy
 $ pip install av
 $ pip install opencv-python
 $ pip install image
-$ pip install tkinter
+$ pip install opencv-python
+$ pip install djitellopy
