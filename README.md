@@ -1,7 +1,3 @@
-Here's a more polished version of your GitHub README, complete with formatting, structure, and styling:
-
----
-
 # 🚁 **Tello Drone Keyboard Interface**
 
 This project allows you to control your Tello Drone using a keyboard interface. 🕹️  
